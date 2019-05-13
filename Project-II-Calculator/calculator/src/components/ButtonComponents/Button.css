@@ -1,0 +1,22 @@
+.operator {
+  background-color: rgb(169, 41, 14);
+  width: 8vw;
+  height: 10vh;
+  border-radius: 0;
+  color: white;
+  font-size: 2em;
+}
+.operand {
+  background-color: white;
+  width: 8vw;
+  height: 10vh;
+  border-radius: 0;
+  font-size: 2em;
+}
+.action {
+  background-color: white;
+  width: 24vw;
+  height: 10vh;
+  border-radius: 0;
+  font-size: 2em;
+}
