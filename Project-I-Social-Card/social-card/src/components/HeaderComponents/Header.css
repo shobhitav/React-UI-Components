@@ -1,1 +1,30 @@
 /* All styles for your header Components live here */
+.headerContainer {
+  display: flex;
+  width: 90%;
+}
+.titleContent {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2%;
+}
+label {
+  color: gray;
+}
+
+strong {
+  color: black;
+}
+
+.imageCropper {
+  width: 7%;
+  height: 7%;
+  position: relative;
+  overflow: hidden;
+  border-radius: 100%;
+}
+.logo {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
